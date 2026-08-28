@@ -60,7 +60,11 @@
     "pinia": "^3.0.4",
     "tailwindcss": "^4.3.3",
     "type-fest": "^4.41.0",
+<<<<<<< HEAD
     "vue": "^3.5.41",
+=======
+    "vue": "^3.5.42",
+>>>>>>> 76aca4ec221690c3b2e123ce8cb7b0a3603be7c2
     "vue-final-modal": "^4.5.5",
     "zod": "^4.4.3"
   }
