@@ -24,7 +24,11 @@
     "@typescript-eslint/parser": "^8.68.0",
     "@vitejs/plugin-vue": "^6.0.8",
     "autoprefixer": "^10.5.4",
+<<<<<<< HEAD
     "css-loader": "^7.1.4",
+=======
+    "css-loader": "^7.1.5",
+>>>>>>> ab902309b708d7a7f3ccc6c4fd5c2f5d672fe5e4
     "eslint": "^9.39.5",
     "eslint-config-prettier": "^10.1.8",
     "eslint-import-resolver-typescript": "^4.4.5",
@@ -60,8 +64,14 @@
     "pinia": "^3.0.4",
     "tailwindcss": "^4.3.3",
     "type-fest": "^4.41.0",
+<<<<<<< HEAD
     "vue": "^3.5.41",
     "vue-final-modal": "^4.5.5",
     "zod": "^4.4.3"
+=======
+    "vue": "^3.5.42",
+    "vue-final-modal": "^4.5.5",
+    "zod": "^4.5.4"
+>>>>>>> ab902309b708d7a7f3ccc6c4fd5c2f5d672fe5e4
   }
 }
