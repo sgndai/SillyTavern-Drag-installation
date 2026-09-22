@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 type Scope = 'global' | 'character' | 'preset';
 type ActivationPolicy = 'ask' | 'enable' | 'disable';
 type CssPolicy = 'ask' | 'append' | 'replace';
@@ -662,3 +663,11 @@ function init() {
 }
 
 init();
+=======
+import '@/global.css';
+import { initPanel } from '@/panel';
+
+$(() => {
+  initPanel();
+});
+>>>>>>> 095008adb5ad7b3e6670665d7dca5647f60ddf9f
